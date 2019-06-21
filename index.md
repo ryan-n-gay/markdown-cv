@@ -1,88 +1,80 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ryan N Gay CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ryan N Gay
+Network Administrator
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rng0502@gmail.com">rng0502@gmail.com</a>
+| <a href="https://blog.ryanngay.com">My personal webpage.</a>
 </div>
 
 
-## Currently
+## Objective
 
-Standing on the shoulders of giants
+I have had opportunities to work in various areas in IT and Development. However, Network Administration is where I've found my place. I strive to provide the best network experience possible, which I've derived from over 8+ years of experience. My goal is to bring my experiences to help better your organization.
 
-### Specialized in
+### Certifications
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Cisco Certified Network Associate Routing and Switching
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Networking, Security, and Automation. Always striving to learn more.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Oklahoma Baptist University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+- Bachelor of Science in
+  - Computer Science with Graphic Design Emphasis
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`January 2018 - Present`
+__Network Administrator__, Supreme Court of Oklahoma
 
-- Warden
-- Minted coins
+- Provides network technical solutions based on process and technical requirements.
+- Responsible for participation in the implementation of the organizations's network architecture and future planning.
+- Takes a role in supporting major network initiatives, high-level network designs, and deployments as well as coordinating technical issues with clients, vendors and internal teams.
+- Creates, coordinates, and executes implementation plans.
+- Tests and certifies IOS features before production deployment.
+- Solves problems using troubleshooting skills and serves as a point person to work through a problem to its resolution.
+- Provides detailed and effective communication to internal and external clients. Identifies, evaluates, selects, and integrates support tools.
+- Interfaces and maintains relationships with users, partners, and internal technical and development teams.
+- Build and deploy network monitoring to support the Network Operations Center.Configure and install network equipment in the judicial center and counties.
+- Monitors the network equipment for capacity and performance enhancements.
+- Maintains network topology awareness of new technological solutions and tools.
+- Perform all other duties assigned.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+`June 2011 - December 2017`
+__PC & Network Technician__, Shawnee Consulting
 
+- Troubleshooting of Computer and Network Systems in multiple environments.
+- Experienced with software and hardware configurations.
+- Design and Install Network infrastructures for corporate environments.
+- Troubleshooting and repairing backup systems.
+
+`June 2016 - August 2016`
+__Project Management and Installations Intern__, Apogee, Inc.
+
+- Refresh wired and wireless networks using the existing infrastructure.
+- Configured switches and APs prior to deployment.
+- Abided by strict time constraints.
+- Confirmed and tested all equipment to verify that it was work properly.
+
+`November 2014 - August 2016`
+__OKBU Field Services Intern__ Apogee, Inc.
+
+- Managed the residential student network for Oklahoma Baptist University.
+- Monitored, maintained, and tested the network on a weekly basis.
+- Handled network outages, connectivity issues, and cabling repair.
+- Communicated with users on a weekly basis to provide the best service possible.
 
 <!-- ### Footer
 
